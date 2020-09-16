@@ -4,7 +4,7 @@
 
 运行方法：
 
-1. 首先将 YOLOv3 的权重文件 [yolov3.weights](https://pjreddie.com/darknet/yolo/) 下载并放在 `yolov3_coco` 目录下。
+1. 首先将 YOLOv3 （17Gclone）的权重文件 [yolov3.weights](https://pjreddie.com/darknet/yolo/) 下载并放在 `yolov3_coco` 目录下。
      ```
      wget https://pjreddie.com/media/files/yolov3.weights
      ```
